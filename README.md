@@ -3,7 +3,7 @@
 
 An end-to-end data analytics and business intelligence dashboard analyzing **51,000+ restaurant listings** across Bangalore to uncover catchment saturation, pricing elasticity, and customer satisfaction drivers.
 
-🔗 **Live Interactive App:** [View Live Dashboard](https://zomato-bangalore-analytics-fxrhlovvhwvgfd83xqb13y.streamlit.app/)
+🔗 **Live Interactive App:** [View Live Dashboard](https://zomato-bangalore-analytics-fxrhlovvnwvqfd83xqbi3y.streamlit.app/)
 
 ---
 
